@@ -1,0 +1,21 @@
+repositories:
+  at-wat/hokuyo3d:
+    type: git
+    url: https://github.com/at-wat/hokuyo3d.git
+    version: master
+  MobileRobots/amr-ros-config:
+    type: git
+    url: https://github.com/MobileRobots/amr-ros-config.git
+    version: master
+  timotheos/lookahead_control:
+    type: git
+    url: https://github.com/timotheos/lookahead_control.git
+    version: devel
+  timotheos/pioneer_config:
+    type: git
+    url: https://github.com/timotheos/pioneer_config.git
+    version: devel/sim
+  amor-ros-pkg/rosaria:
+    type: git
+    url: https://github.com/amor-ros-pkg/rosaria.git
+    version: master
